@@ -80,7 +80,7 @@
               </div>
             </div>
             <div class="content-item-3" v-else>
-              <p>你可以点击下面的按钮登录</p>
+              <p>你可以点击下面的按钮登录QAQ</p>
               <div class="loginning">
                 <router-link to="/login">登录</router-link>
               </div>
